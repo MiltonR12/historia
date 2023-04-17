@@ -1,1 +1,0 @@
-import{r as t}from"./index.45a47ed6.js";import{j as s}from"./jsx-runtime.73bdaf71.js";const o="/_astro/musica.8925f9e5.mp3";function a(){const r=t.useRef(null);return t.useEffect(()=>{r.current.volume=.05},[r]),s.jsx("audio",{ref:r,src:o,autoPlay:!0})}export{a as default};
